@@ -90,16 +90,6 @@ Accepted, ICTEST 2026 · *In press*
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandana-das&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🗣️ Languages
 
 Malayalam (Native) · English (Fluent)
