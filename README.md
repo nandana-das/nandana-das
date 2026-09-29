@@ -2,102 +2,175 @@
 
 # Hi, I'm Nandana Narayan Das 👋
 
-**M.Tech AI & DS Student · Research Enthusiast · AI/ML Developer**
+### **M.Tech AI & Data Science Candidate · AI/ML Researcher & Builder**
 
-Turning data into intelligent solutions — one model at a time.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nandana--narayan--das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandana-narayan-das)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nandana--das.github.io-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nandana-das.github.io/)
+[![Email](https://img.shields.io/badge/Email-nandanadas007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandanadas007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nandana--das-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandana-das)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nandana-das.github.io/Resume.pdf)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nandana--das.github.io-1a1a2e?style=flat-square)](https://nandana-das.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nandana--narayan--das-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandana-narayan-das)
-[![GitHub](https://img.shields.io/badge/GitHub-nandana--das-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nandana-das)
+<br/>
+
+> **"I build things — a RAG system for ISRO domain knowledge, a computer vision pipeline for lunar surface detection, a multi-agent LLM system, and research published at IEEE."**  
+> Comfortable working across the ML stack: data pipelines, model development, GenAI integrations, and explainability. Looking for an internship where I can contribute from day one.
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 📌 Profile Summary
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Air Quality Prediction](https://github.com/nandana-das/AirqualityPrediction)** | Predicts AQI for major Indian cities using Ant Colony Optimization and Decision Trees, with policy-focused feature selection | Python, ML |
-| **[Eureka Heartbeat Client](https://github.com/nandana-das/eureka-heartbeat-client)** | Spring Boot service for dynamic registration, heartbeat scheduling, and deregistration of service instances | Java, Spring Boot, REST |
-| **[Face Recognition Attendance System](https://github.com/nandana-das/Face-Recognition-Based-Attendence-System)** | Automated attendance tracking using real-time face recognition | Python, OpenCV |
-| **[IoT Network Intrusion Detection](https://github.com/nandana-das/IoT-Network-Intrusion-Detection)** | ML-based detection of intrusions and anomalies in IoT network traffic | Python, ML |
-| **[Video Summarizer](https://github.com/nandana-das/video_summariser)** | Converts speech to text and generates concise summaries from video input | NLP, NLTK, Speech Recognition |
-| **[AI Study Buddy](https://github.com/nandana-das/AI-Study-Buddy)** | Streamlit app powered by Gemini API — enter any topic, get an instant explanation, real-life example, and a 5-question quiz | Python, Streamlit, Gemini API |
-| **[Resume Agent](https://github.com/nandana-das/resume-agent)** | Compares a resume against a job description and flags missing skills/keywords with improvement suggestions | Python, NLP |
-| **[Virtual Museum](https://github.com/nandana-das/virtual_museum_project)** | Interactive 3D educational virtual museum | JavaScript, Three.js |
-
-**[→ View all repositories](https://github.com/nandana-das?tab=repositories)**
+- 🎓 **M.Tech in Artificial Intelligence & Data Science** (2025–2027) — *Alliance School of Advanced Computing, Alliance University, Bangalore*
+- 🎓 **B.Tech in Computer Science and Engineering (AI)** (2021–2025) — *Adi Shankara Institute of Engineering and Technology, Kalady, Kerala*
+- 🔬 **Core Areas**: Multi-Agent Systems (LangGraph), Knowledge Graph RAG, Computer Vision (YOLO, RT-DETR), Explainable AI (SHAP, Grad-CAM, LIME), Time-Series Forecasting
+- 💼 **Industry Background**: Former **Backend Servicing Intern** at *Covacsis Technologies* (Java, Apache Pinot, Spring Boot)
+- 🎯 **Objective**: Seeking AI/ML and Data Science internship opportunities to build high-impact solutions.
 
 ---
 
-## 🏆 Publications
+### 🛠️ Technical Skills
 
-**Explainable AI for Disease Detection and Body Constitution Analysis Using Tongue Imaging: A Deep Learning Approach for Non-Invasive Diagnostics**
-Published in IEEE Xplore · Presented at ICTEST 2025
-[View on IEEE →](https://ieeexplore.ieee.org/document/11042469)
+| Category | Skills & Tools |
+|:---|:---|
+| **LLM / GenAI** | LangChain, LangGraph, RAG, Knowledge Graph RAG, FAISS, Prompt Engineering, Groq, Gemini API |
+| **Computer Vision** | OpenCV, YOLO, RT-DETR, CNN, PyTorch, TensorFlow, Image Classification, Object Detection |
+| **ML / DL** | scikit-learn, Keras, LSTM, Transformer, CNN-LSTM, NLTK |
+| **Explainable AI (XAI)** | SHAP, Grad-CAM, LIME, Fuzzy Cognitive Maps |
+| **Data & Analytics** | Pandas, NumPy, SQL, Power BI, Matplotlib, ETL, EDA, Streamlit, spaCy |
+| **Languages & Tools** | Python, Java, C, SQL, Git, GitHub, Jupyter Notebook, Google Colab, Flask |
 
-**Physics-Informed Explainable Multimodal Deep Learning for Satellite-Based Air Pollution Source Attribution in Delhi NCR**
-Accepted, ICTEST 2026 · *In press*
-[Repo →](https://github.com/nandana-das/igp-emissions-attribution)
+<div align="left">
 
----
+#### 🏷️ Key Tech Stack Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 💼 Experience
-
-**Backend Servicing Intern**, Covacsis Technologies *(Remote, Jun–Jul 2024)*
-- Developed backend features in Java, Pinot, and Spring Boot
-- Designed service instance management with high availability
-- Built robust backend architectures for consistent performance
-
-**Positions Held**
-- Mentor, CSI SB ASIET (2024–25)
-- Social Media Team Lead, CSI SB ASIET (2023–24)
-- Editor, Saakshin (2022–24)
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Detail |
-|---|---|---|
-| M.Tech, AI & Data Science | Alliance University, Bangalore | CGPA 8.9, Expected 2027 |
-| B.Tech, CSE (Artificial Intelligence) | Adi Shankara Institute of Engineering and Technology | CGPA 7.18, 2025 |
-| Class XII (ISC) | St. Aloysius Convent ISC School | 87.2%, 2021 |
-| Class X (ICSE) | St. Aloysius Convent ISC School | 87.167%, 2019 |
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+### 🚀 Projects
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+#### **1. [KG-RAG-ISRO](https://github.com/nandana-das/KG-RAG-ISRO)**
+*`Python` · `LangChain` · `FAISS` · `spaCy` · `Knowledge Graphs` · `Streamlit`*
+- Built a Knowledge Graph-augmented RAG system for ISRO domain Q&A — combining graph-based retrieval, FAISS vector search, spaCy entity extraction, and local LLM inference into an interactive Streamlit app.
+- Goes beyond standard RAG: structured entity-relationship retrieval from a knowledge graph improves answer grounding and factual accuracy on domain-specific queries.
 
-**AI/ML:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) [NLTK](https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6ede2ad13d4f0dbd0b1d5cad931a6aa868549514086cfed5447bc2af24fd985f533f96dbc6e161e0f2927f3684ce84b0706f49a50d9357cb9c0832ae56d1b3e137), [Matplotlib](https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e3cd0e301f9b1af35eb2dd312374fa1804ef4a1da0b4740768be12e66c1730ecf1b063e60539a936f147afc8ad82382e5e710685434273a7c3609fb2df80bd316)
+#### **2. [Lunar Landslide & Boulder Detection](https://github.com/nandana-das/lunar-landslide-boulder-detection)**
+*`Python` · `YOLO` · `RT-DETR` · `PyTorch` · `Chandrayaan OHRC Imagery`*
+- Built an object detection pipeline using YOLO and RT-DETR to detect landslides and boulders in ISRO's Chandrayaan OHRC imagery — a domain where labeled data is scarce and standard augmentation strategies must be rethought.
+- Implemented full pipeline: label conversion, multi-stage training, inference, confidence analysis, and architecture comparison across detection models.
 
-**Web:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+#### **3. [AI Resume Agent](https://github.com/nandana-das/resume-agent)**
+*`Python` · `LangChain` · `LangGraph` · `Groq` · `Gemini API`*
+- Designed a four-agent LangGraph pipeline — JD parser, resume evaluator, gap analyst, resume writer — on a shared state graph, auto-generating tailored resumes from job descriptions.
+- Integrated Groq and Gemini APIs with structured prompt engineering and output validation; built a companion [Study Buddy](https://github.com/nandana-das/AI-Study-Buddy) Streamlit app on Gemini API.
+
+#### **4. IGP Emissions Attribution**
+*`TensorFlow` · `CNN` · `LSTM` · `Transformer` · `SHAP` · `Grad-CAM`*
+- Hybrid CNN–LSTM–Transformer model fusing satellite imagery and meteorological time-series for air pollution source attribution over Delhi NCR; F1-score 0.93 for emission detection, 0.76 for source attribution.
+- Applied SHAP and Grad-CAM for model transparency and bias detection. *(Presented at conference — publication under review)*.
+
+#### **5. [Smart City Traffic AI — Bengaluru](https://github.com/nandana-das/smart-city-traffic-ai-bengaluru)**
+*`Python` · `LSTM` · `TomTom API` · `Fuzzy Cognitive Maps` · `Flask`*
+- Full-stack traffic forecasting system: LSTM congestion prediction on live TomTom API data, Fuzzy Cognitive Map explainability, Flask backend, and separate frontend — built as a team project.
 
 ---
 
-## 📜 Certifications
+### 📚 Other Repositories & Highlights
 
-- Artificial Intelligence Foundation Digital Credential — IBM
-- Career Essentials in Generative AI — Microsoft & LinkedIn Learning
-- Career Essentials in GitHub Professional Certificate — LinkedIn Learning
-- Data Science Professional Certificate — KNIME, LinkedIn Learning
-- Java Object-Oriented Programming — LinkedIn Learning
-- Oracle Certified Java Programmer — Oracle
-- Artificial Intelligence Foundation Certification — Infosys Springboard
+| Project | Stack | Overview |
+|:---|:---|:---|
+| **[Tongue Disease Detection](https://github.com/nandana-das/Tongue_disease_detection)** | PyTorch, CNN, XAI | Deep learning & Explainable AI for non-invasive diagnosis and body constitution analysis. |
+| **[RFMS Fuzzy FCA Segmentation](https://github.com/nandana-das/rfms-fuzzy-fca-segmentation)** | Python, Scikit-learn, FCA | Customer segmentation solving marketplace frequency sparsity via Fuzzy FCA & RFMS. |
+| **[Air Quality Prediction](https://github.com/nandana-das/AirqualityPrediction)** | Python, Decision Trees, ACO | Multi-objective AQI forecasting using Ant Colony Optimization for environmental policy. |
+| **[Eureka Heartbeat Client](https://github.com/nandana-das/eureka-heartbeat-client)** | Java, Spring Boot, REST | Microservice heartbeat scheduling, instance discovery, and dynamic registration service. |
+| **[Face Recognition Attendance](https://github.com/nandana-das/Face-Recognition-Based-Attendence-System)** | OpenCV, Python, CSV | Automated real-time facial recognition attendance logging system. |
+| **[Virtual Museum](https://github.com/nandana-das/virtual_museum_project)** | JavaScript, Three.js, WebGL | Interactive 3D educational museum rendered natively in the browser. |
+
+👉 **[Explore all repositories on GitHub →](https://github.com/nandana-das?tab=repositories)**
+
+---
+
+### 🏆 Publications
+
+- **[Explainable AI for Disease Detection and Body Constitution Analysis Using Tongue Imaging](https://ieeexplore.ieee.org/document/11042469)**  
+  *Published in IEEE Xplore · Presented at ICTEST 2025*  
+  [View on IEEE Xplore →](https://ieeexplore.ieee.org/document/11042469) · [Code Repository →](https://github.com/nandana-das/Tongue_disease_detection)
+
+- **Physics-Informed Explainable Multimodal Deep Learning for Satellite-Based Air Pollution Source Attribution in Delhi NCR**  
+  *Presented at Conference · Publication Under Review*
 
 ---
 
-## 🗣️ Languages
+### 📜 Certifications
 
-Malayalam (Native) · English (Fluent)
+- 🏅 **Oracle Certified Java Foundations Associate** — Oracle
+- 🏅 **Artificial Intelligence Foundation Digital Credential** — [IBM (Credly)](https://www.credly.com/badges/8cc05afc-9b8b-46b7-a26f-04c243d404da/linked_in?t=sqsi62)
+- 🏅 **Microsoft Generative AI Essentials** — Microsoft & LinkedIn Learning
+- 🏅 **GitHub Professional Certificate** — LinkedIn Learning
+- 🏅 **KNIME Data Science Certificate** — KNIME & LinkedIn Learning
+- 🏅 **Infosys AI Foundation** — Infosys Springboard
 
 ---
+
+### 💼 Experience & Leadership
+
+- **Backend Servicing Intern** · *Covacsis Technologies (Remote)* `Jun 2024 – Jul 2024`
+  - Collaborated on backend microservices using Java, Apache Pinot, and Spring Boot.
+  - Implemented service instance lifecycle management ensuring high availability and fault tolerance.
+- **Mentor** · *CSI SB ASIET* `2024 – 2025`
+  - Guided junior engineering students in computer science fundamentals and AI problem solving.
+- **Social Media Team Lead** · *CSI SB ASIET* `2023 – 2024`
+  - Led community engagement and digital outreach campaigns for technical events.
+- **Editor** · *Saakshin* `2022 – 2024`
+  - Handled editorial curation, technical reviews, and article publishing.
+
+---
+
+### 🎓 Education
+
+- **M.Tech in Artificial Intelligence and Data Science** (2025 – 2027)  
+  *Alliance School of Advanced Computing, Alliance University — Bangalore, Karnataka*
+- **B.Tech in Computer Science and Engineering (AI)** (2021 – 2025)  
+  *Adi Shankara Institute of Engineering and Technology — Kalady, Kerala*
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandana-das&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nandana's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandana-das&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandana-das&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Connect With Me
 
 <div align="center">
 
-*"Data is the new oil. Extract, refine, and innovate!"*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandana-narayan-das)
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nandana-das.github.io/)
+[![Email](https://img.shields.io/badge/Email_Directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandanadas007@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandana-das)
+
+<p align="center">
+  📍 Bangalore / Kochi, India · 🗣️ English (Fluent), Malayalam (Native)
+</p>
 
 </div>
