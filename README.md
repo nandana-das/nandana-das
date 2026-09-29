@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-nandana--das.github.io-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nandana-das.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nandana--narayan--das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandana-narayan-das)
 [![GitHub](https://img.shields.io/badge/GitHub-nandana--das-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandana-das)
-[![Email](https://img.shields.io/badge/Email-nandanadas007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandanadas007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nandanadas007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandana.das001@gmail.com)
 
 <p align="center">
   <em>"Turning data into intelligent, explainable solutions — from deep learning architectures to real-world deployment."</em>
