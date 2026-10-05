@@ -164,7 +164,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandana-narayan-das)
 [![Portfolio](https://img.shields.io/badge/Personal_Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nandana-das.github.io/)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandanadas007@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandana.das001@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandana-das)
 
 <p align="center">
